@@ -134,7 +134,7 @@ Membaca file data (CSV/Excel) dan menampilkan ringkasan awal.
 
 ├── summary.md
 
-## 9. Identitas Pengembang
+## 9. Identitas 
 
 | Field | Value |
 |-------|-------|

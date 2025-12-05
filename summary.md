@@ -100,4 +100,3 @@
 
 ---
 
-**Catatan**: Nilai-nilai dalam tabel ini adalah perkiraan berdasarkan analisis notebook. Untuk nilai eksak, silakan jalankan masing-masing notebook secara lengkap.

@@ -30,6 +30,8 @@ midterm-machine-learning/
 ├── dataset_3/
 │   ├── notebook_dataset3.ipynb
 │
+├── summary.md
+│
 └── README.md
 ```
 
@@ -130,14 +132,7 @@ Membaca file data (CSV/Excel) dan menampilkan ringkasan awal.
 
 ## 8. Hasil Ringkasan
 
-Di setiap notebook, tabel ringkasan hasil model seperti:
-
-| Model | Metrik 1 | Metrik 2 | Keterangan |
-|-------|----------|----------|------------|
-| Random Forest | Accuracy = 0.86 | F1 = 0.84 | Model terbaik pada dataset A |
-| Logistic Regression | Accuracy = 0.79 | F1 = 0.77 | Baseline sederhana |
-
-*(Angka di atas hanya contoh — lihat notebook untuk nilai aktual.)*
+├── summary.md
 
 ## 9. Identitas Pengembang
 

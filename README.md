@@ -126,11 +126,11 @@ Membaca file data (CSV/Excel) dan menampilkan ringkasan awal.
 - Random Forest
 - Linear Regression (untuk regresi)
 - K-Means / DBSCAN (untuk clustering)
-- XGBoost (opsional apabila tersedia dalam environment)
+- XGBoost
 
-## 8. Hasil Ringkasan (Contoh Format)
+## 8. Hasil Ringkasan
 
-Di setiap notebook, sertakan tabel ringkasan hasil model seperti:
+Di setiap notebook, tabel ringkasan hasil model seperti:
 
 | Model | Metrik 1 | Metrik 2 | Keterangan |
 |-------|----------|----------|------------|

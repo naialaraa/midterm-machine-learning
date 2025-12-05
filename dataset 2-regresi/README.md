@@ -2,12 +2,6 @@
 
 **End-to-End Machine Learning Project untuk Prediksi Tahun Rilis Lagu**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Polars](https://img.shields.io/badge/Polars-Optimized-orange.svg)](https://www.pola.rs/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green.svg)](https://scikit-learn.org/)
-
----
-
 ## 📋 Deskripsi Project
 
 Project ini mengimplementasikan **end-to-end regression pipeline** untuk memprediksi tahun rilis lagu berdasarkan fitur-fitur audio timbre. Pipeline mencakup data preprocessing, feature engineering, model training, hyperparameter tuning, dan evaluasi komprehensif.
@@ -292,3 +286,4 @@ MAE:       3-6 years  (Good)
 - Feature importance reveals which audio characteristics best predict era
 
 ---
+

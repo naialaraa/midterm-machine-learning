@@ -285,19 +285,6 @@ MAE:       3-6 years  (Good)
 
 ---
 
-## 📝 Notes
-
-### Kenapa Polars?
-Dengan dataset 515K rows × 90 columns (422MB), Polars memberikan:
-- ⚡ 5-10x faster loading
-- 💾 15-20% memory savings
-- 🔄 Automatic parallelization
-
-### Hyperparameter Tuning Time
-- **Original:** 20 iter × 3 CV = 60 trainings = 121 minutes
-- **Optimized:** 10 iter × 2 CV = 20 trainings = 15-30 minutes
-- **Trade-off:** ~1-2% accuracy untuk 67% time savings (WORTH IT!)
-
 ### Dataset Insights
 - Timbre features capture audio "color" characteristics
 - Strong correlation between certain frequency patterns and release year
@@ -305,33 +292,3 @@ Dengan dataset 515K rows × 90 columns (422MB), Polars memberikan:
 - Feature importance reveals which audio characteristics best predict era
 
 ---
-
-## 👥 Author
-
-**Machine Learning - UTS Project**  
-Semester 7 - [Your University Name]
-
----
-
-## 📄 License
-
-This project is created for educational purposes as part of a Machine Learning course assignment.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset: Year Prediction MSD Dataset
-- Libraries: Polars, scikit-learn, pandas
-- Course: Machine Learning - Semester 7
-
----
-
-## 📞 Contact
-
-For questions or feedback about this project, please contact through your course instructor or create an issue in the repository.
-
----
-
-**Last Updated:** December 5, 2025  
-**Status:** ✅ Complete & Ready for Submission
